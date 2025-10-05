@@ -10,3 +10,5 @@ Alternatively, they can define a desired target pose, and the system automatical
 
 
 💡 Goal: To create a digital twin of an industrial robot (e.g., KUKA KR500-3) and test control and motion algorithms in a simulation environment.
+
+[Proje Dokümanını Görüntüle (PDF)](./Rapor.pdf)
